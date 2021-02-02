@@ -1,0 +1,26 @@
+---
+title: "shiny_fundamentals_with_r"
+author: "Salerno"
+date: "02/02/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Shiny Fundamentals with R
+
+Learn how to use Shiny, a popular R package, to build highly interactive web applications—without needing any other programming languages. Using Shiny you can share your analyses as dashboards and visualizations to bring your data to life.
+
+In this track, you’ll get hands-on with Gapminder, Star Wars, and NASA datasets, as you discover how to represent raw data using explorable visualizations including plots and word clouds. You’ll also improve your ability to make discoveries and communicate these visually to non-technical stakeholders—an invaluable skill for any data analyst or data scientist!
+
+
+## 1) Building Web Applecations with Shiny in R
+
+Shiny is an R package that makes it easy to build highly interactive web apps directly in R. Using Shiny, data scientists can create interactive web apps that allow your team to dive in and explore your data as dashboards or visualizations. If you want to bring your data to life, Shiny is the way to go! Using data about baby names, food ingredients, and UFO sightings, you'll build a variety of different Shiny apps that leverage different inputs and outputs. You’ll also learn the basics of reactive expressions. By the end of this course, you’ll have the Shiny skills you need to build your first app in R.
+
+### 1.1) Get started with Shiny
+
+To kick off the course you'll learn what a web app is and when you should build one, plus build a few apps of your own! You'll first learn to make text inputs and outputs in a few ways, including exploring the popularity of certain names over time.
+
